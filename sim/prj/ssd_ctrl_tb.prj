@@ -1,0 +1,2 @@
+vhdl xil_defaultlib ../../ssd_ctrl.vhd
+vhdl xil_defaultlib ../tb/ssd_ctrl_tb.vhd
